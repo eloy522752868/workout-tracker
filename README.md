@@ -8,7 +8,7 @@ In this project you will be able to view create and track daily workouts. I want
 
 ### Generated HTML
 
-![Team Site](./assets/images/FitnessTracker-.png)
+![Team Site](./public/images/fitnesstracker.png)
 
 ### Deployed Site Details
 
