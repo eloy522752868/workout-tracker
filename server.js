@@ -1,3 +1,5 @@
+//Modified: Eloy Gonzalez
+//Modified Date:05072021
 const express = require("express");
 const logger = require("morgan");
 const mongoose = require("mongoose");
@@ -20,9 +22,9 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
 });
 
 // Sets up the routes
-app.use(require('./routes/html/htmlRoutes'));
+app.use(require("./routes/html/htmlRoutes"));
+app.use(require("./routes/api/apiRoutes.js"));
 
 app.listen(PORT, () => {
   console.log(`App running on port ${PORT}!`);
 });
-
