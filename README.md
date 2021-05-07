@@ -8,14 +8,12 @@ In this project you will be able to view create and track daily workouts. I want
 
 ### Generated HTML
 
-![Team Site](./assets/images/teamgeneratedsite.png)
+![Team Site](./assets/images/FitnessTracker-.png)
 
 ### Deployed Site Details
 
 Link to readme file below:
 
-[Generated MY Team Site](https://eloy522752868.github.io/team-profile-generator/assets/dist/index.html)
+[GitHubRepo](https://eloy522752868.github.io/team-profile-generator/assets/dist/index.html)
 
-[Team Profile Generator repo](https://github.com/eloy522752868/team-profile-generator/)
-
-[Video Instructions](https://drive.google.com/file/d/1ABtz6EaaOtv3doEevR1rFb0xjIPr3Xxe/view)
+[Workout Tracker Link](https://murmuring-forest-89074.herokuapp.com/?id=6095a18e3ba332001518487c)
